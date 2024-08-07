@@ -16,8 +16,6 @@
 
 # A little about myself
 
-`
-
     public static void main(String[] args) {
     
         String[] interests = {"Coffee", "Video games", "Technology", "Music", "Sports", "Series", "Movies"};
@@ -28,4 +26,3 @@
 
         saulo.displayInfo();
     }
-`
