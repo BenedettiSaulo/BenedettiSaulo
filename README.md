@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Saulo!
 
-<!--
-**BenedettiSaulo/BenedettiSaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+☕ Coffee lover | 🎮 Video game addict | 💻 Technology enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎵 Music fan | 🏀 Sports lover
+
+💪 Focused and self-taught | 🚀 Fast learner
+
+🎬 Series and movie marathoner
+
+👨‍💻 Information Systems Developer | 🎯 Aspiring Game Developer
+
+---
+
+# A little about myself
+
+`
+    public static void main(String[] args) {
+    
+        String[] interests = {"Coffee", "Video games", "Technology", "Music", "Sports", "Series", "Movies"};
+        String[] technicalSkills = {"Java Spring Boot (Back-end)", "Angular (Front-end)", "PostgreSQL (Database)"};
+        String[] softSkills = {"Focused", "Self-taught", "Fast learner"};
+        
+        Person saulo = new Person("Saulo Benedetti", interests, "Information Systems Developer", "Aspiring Game Developer", technicalSkills, softSkills);
+
+        saulo.displayInfo();
+    }
+`
