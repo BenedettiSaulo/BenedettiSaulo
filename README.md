@@ -10,7 +10,7 @@
 
 🎬 Series and movie marathoner
 
-👨‍💻 Information Systems Developer | 🎯 Aspiring Game Developer
+👨‍💻 Full Stack Developer
 
 ---
 
