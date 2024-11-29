@@ -21,7 +21,7 @@ public class Main {
     public static void main(String[] args) {
     
         String[] interests = {"Coffee", "Video games", "Technology", "Music", "Sports", "Series", "Movies"};
-        String[] technicalSkills = {"Java Spring Boot (Back-end)", "Angular (Front-end)", "PostgreSQL (Database)"};
+        String[] technicalSkills = {"Java Spring Boot, Node.js, PHP (Back-end)", "React, Angular (Front-end)", "PostgreSQL, MySQL (Database)"};
         String[] softSkills = {"Focused", "Self-taught", "Fast learner"};
         
         Person saulo = new Person("Saulo Benedetti", interests, "Full Stack Developer", technicalSkills, softSkills);
