@@ -24,7 +24,7 @@ public class Main {
         String[] technicalSkills = {"Java Spring Boot (Back-end)", "Angular (Front-end)", "PostgreSQL (Database)"};
         String[] softSkills = {"Focused", "Self-taught", "Fast learner"};
         
-        Person saulo = new Person("Saulo Benedetti", interests, "Information Systems Developer", "Aspiring Game Developer", technicalSkills, softSkills);
+        Person saulo = new Person("Saulo Benedetti", interests, "Full Stack Developer", technicalSkills, softSkills);
 
         saulo.displayInfo();
     }
