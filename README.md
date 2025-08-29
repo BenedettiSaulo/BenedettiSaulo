@@ -21,8 +21,11 @@ I’m a **Full Stack Developer** passionate about building scalable applications
 ## ⚡ Tech Stack
 
 **Back-end:** Java (Spring Boot) · Node.js · PHP
+
 **Front-end:** React · Angular
+
 **Databases:** PostgreSQL · MySQL
+
 **Tools & Others:** Docker · Linux · Git · AWS (studying)
 
 ---
